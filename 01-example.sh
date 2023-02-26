@@ -1,3 +1,6 @@
+\n
+\n
+\n
 #list files
 ls
 # cat output
