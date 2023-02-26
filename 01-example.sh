@@ -1,4 +1,3 @@
-sh
 #list files
 ls
 # cat output
