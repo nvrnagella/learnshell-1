@@ -7,5 +7,5 @@ echo class name - ${class}
 DATE=26-02-2023
 echo "this is manual date $DATE"
 
-DATE1=$(date + %F)
+DATE1=$(date +%F)
 echo "this is dynamic date $DATE1"
