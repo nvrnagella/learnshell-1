@@ -9,3 +9,7 @@ echo "this is manual date $DATE"
 
 DATE1=$(date +%F)
 echo "this is dynamic date $DATE1"
+
+#arithmatic substition
+ADD=$((2+5))
+echo "this is arithmatic addition $ADD"
