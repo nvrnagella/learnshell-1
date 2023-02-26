@@ -1,6 +1,6 @@
-echo "\n"
-echo "\n"
-echo "\n"
+echo -e "\n"
+echo -e "\n"
+echo -e "\n"
 #list files
 ls
 # cat output
