@@ -13,3 +13,6 @@ echo "this is dynamic date $DATE1"
 #arithmatic substition
 ADD=$((2+5))
 echo "this is arithmatic addition $ADD"
+
+# give variable form commandline
+echo b value is $b
