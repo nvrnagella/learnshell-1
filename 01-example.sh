@@ -1,6 +1,6 @@
-\n
-\n
-\n
+echo "\n"
+echo "\n"
+echo "\n"
 #list files
 ls
 # cat output
