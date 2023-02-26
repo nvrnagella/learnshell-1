@@ -1,4 +1,5 @@
 echo -e "\n"
+echo "OUTPUT"
 #list files
 ls
 # cat output
