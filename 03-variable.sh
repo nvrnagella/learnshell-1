@@ -17,6 +17,6 @@ echo "this is arithmatic addition $ADD"
 # give variable form commandline
 echo b value is $b
 
-b=(100 500)
+b=(10 50)
 echo ${b[0]}
 echo ${b[1]}
