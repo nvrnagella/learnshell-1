@@ -20,3 +20,4 @@ example1 (){
 }
 
 example1
+echo example1 return status - $?
