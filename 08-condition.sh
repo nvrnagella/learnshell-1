@@ -18,4 +18,9 @@ elif [ $course_name == azure ]; then
 else
   echo unknown course name
 fi
+#fundamentally we have two loop commands for and while
+#if inputs are known then go with for loop
+#if inputs can be controlled then go with while loop
+#if we not control while loop then it will become a infinite loop
+#
 
